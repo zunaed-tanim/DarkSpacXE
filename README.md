@@ -1,3 +1,3 @@
 # DarkSpacXE
-First Unity Game project 
-//Puased
+My first Unity3D game project (scripts - C#) 
+//discontined for futher modification
